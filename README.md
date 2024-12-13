@@ -1,6 +1,36 @@
-# README - Linux Basics and System Administration
+# Linux Basics and System Administration
 
-This document provides an overview of essential Linux concepts and tools.
+<p align="center">
+  <i>Your guide to mastering essential Linux concepts and tools, designed for efficient system administration.</i><br>
+  For more in-depth exploration, visit the [Linux Project Repository](https://github.com/abdo-sebban/linux-basics).
+</p>
+
+<p align="center">
+  <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/abdo-sebban/linux-basics?color=blueviolet" />
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/abdo-sebban/linux-basics?color=blue" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/abdo-sebban/linux-basics?color=brightgreen" />
+</p>
+
+---
+
+<h3 align="center">
+  <a href="#virtualization">Virtualization</a> ·
+  <a href="#partitions">Partitions</a> ·
+  <a href="#apparmor">AppArmor</a> ·
+  <a href="#lvm">LVM</a> ·
+  <a href="#sudo-vs-su">sudo vs su</a> ·
+  <a href="#ssh">SSH</a> ·
+  <a href="#user-management">User Management</a> ·
+  <a href="#password-policies">Password Policies</a> ·
+  <a href="#ufw">UFW</a> ·
+  <a href="#crontab">Crontab</a> ·
+  <a href="#why-debian">Why Debian?</a> ·
+  <a href="#debian-vs-rocky">Debian vs Rocky</a> ·
+  <a href="#hostname-and-networking">Hostname and Networking</a> ·
+  <a href="#basic-bash-commands">Basic Bash Commands</a> ·
+  <a href="#monitoring-with-monitoring-sh">Monitoring with monitoring.sh</a> ·
+  <a href="#apt-vs-aptitude">apt vs aptitude</a>
+</h3>
 
 ---
 
@@ -96,7 +126,7 @@ Use `hostnamectl` to set or view the hostname. Configure network settings in `/e
 
 ---
 
-## 15. Monitoring with monitoring.sh
+## 15. Monitoring with `monitoring.sh`
 
 Create a script like `monitoring.sh` to log system metrics such as CPU and memory usage. Example:
 
@@ -107,18 +137,3 @@ while true; do
     echo "Memory: $(free -m | awk '/Mem:/ {print $3}')MB" >> /var/log/monitor.log
     sleep 60
 done
-```
-
----
-
-## 16. apt vs aptitude
-
-- **apt:** A command-line tool for package management, widely used and simple to use.
-- **aptitude:** Offers a text-based UI with enhanced dependency resolution, useful for advanced users.
-
----
-
-## Author
-
-Created by **Abderrahmane Sebban**
-
