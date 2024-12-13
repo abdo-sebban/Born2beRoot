@@ -14,36 +14,21 @@
 ---
 
 <h3 align="center">
-  <a href="#virtualization">Virtualization</a> 
-  <br>
-  <a href="#partitions">Partitions</a>
-  <br>
-  <a href="#apparmor">AppArmor</a>
-  <br>
-  <a href="#lvm">LVM</a>
-  <br>
-  <a href="#sudo-vs-su">sudo vs su</a>
-  <br>
-  <a href="#ssh">SSH</a>
-  <br>
-  <a href="#user-management">User Management</a>
-  <br>
-  <a href="#password-policies">Password Policies</a>
-  <br>
-  <a href="#ufw">UFW</a>
-  <br>
-  <a href="#crontab">Crontab</a>
-  <br>
-  <a href="#why-debian">Why Debian?</a>
-  <br>
-  <a href="#debian-vs-rocky">Debian vs Rocky</a>
-  <br>
-  <a href="#hostname-and-networking">Hostname and Networking</a>
-  <br>
-  <a href="#basic-bash-commands">Basic Bash Commands</a>
-  <br>
-  <a href="#monitoring-with-monitoring-sh">Monitoring with monitoring.sh</a>
-  <br>
+  <a href="#virtualization">Virtualization</a> ·
+  <a href="#partitions">Partitions</a> ·
+  <a href="#apparmor">AppArmor</a> ·
+  <a href="#lvm">LVM</a> ·
+  <a href="#sudo-vs-su">sudo vs su</a> ·
+  <a href="#ssh">SSH</a> ·
+  <a href="#user-management">User Management</a> ·
+  <a href="#password-policies">Password Policies</a> ·
+  <a href="#ufw">UFW</a> ·
+  <a href="#crontab">Crontab</a> ·
+  <a href="#why-debian">Why Debian?</a> ·
+  <a href="#debian-vs-rocky">Debian vs Rocky</a> ·
+  <a href="#hostname-and-networking">Hostname and Networking</a> ·
+  <a href="#basic-bash-commands">Basic Bash Commands</a> ·
+  <a href="#monitoring-with-monitoring-sh">Monitoring with monitoring.sh</a> ·
   <a href="#apt-vs-aptitude">apt vs aptitude</a>
 </h3>
 
