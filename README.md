@@ -122,5 +122,3 @@ done
 
 Created by **Abderrahmane Sebban**
 
-[GitHub Profile](https://github.com)
-
