@@ -2,13 +2,13 @@
 
 <p align="center">
   <i>Your guide to mastering essential Linux concepts and tools, designed for efficient system administration.</i><br>
-  For more in-depth exploration, visit the [Linux Project Repository](https://github.com/abdo-sebban/linux-basics).
+  For more in-depth exploration, visit the [Linux Project Repository](https://github.com/abdo-sebban/Born2beRoot).
 </p>
 
 <p align="center">
-  <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/abdo-sebban/linux-basics?color=blueviolet" />
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/abdo-sebban/linux-basics?color=blue" />
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/abdo-sebban/linux-basics?color=brightgreen" />
+  <img alt="Code Size" src="https://img.shields.io/github/languages/code-size/abdo-sebban/Born2beRoot?color=blueviolet" />
+  <img alt="Top Language" src="https://img.shields.io/github/languages/top/abdo-sebban/Born2beRoot?color=blue" />
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/abdo-sebban/Born2beRoot?color=brightgreen" />
 </p>
 
 ---
